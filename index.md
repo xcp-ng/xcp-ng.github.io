@@ -43,7 +43,7 @@ Testing releases will be also a great help.
 
 These are very early/initial estimations. Consider it as more indicative data.
 
-## Phase I: XCP initial prototype
+### Phase I: XCP initial prototype
 
 * install from ISO
 * working environment without feature restrictions
@@ -55,9 +55,10 @@ What's left:
 * bundle an ISO with everything (modified XAPI + other modifications to XenServer ISO)
 
 Estimated cost: 6k€ (approx 15 man-day at 400€/day rate)
+
 Estimated release date: Q1 2018
 
-## Phase II: RPM repo and meta package
+### Phase II: RPM repo and meta package
 
 * update phase I xcp-ng from `yum upgrade`
 * turn a CentOS into a XCP-ng ready host
@@ -70,6 +71,7 @@ What's left:
 * avoid conflicts with existing CentOS packages (pinning?)
 
 Estimated cost: between 12k€ and 24k€ (30 to 60 man-day)
+
 Estimated release date: Q2 2018
 
 ### Phase III: adding extra stuff
