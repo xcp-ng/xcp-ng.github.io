@@ -1,12 +1,10 @@
-Welcome on XCP-ng project!
-
-![](https://xen-orchestra.com/blog/content/images/2017/12/xcpng_small.png)
-
 ## What is XCP-ng?
 
 XCP (Xen Cloud Platform) [was the free/libre equivalent of XenServer](https://wiki.xenproject.org/wiki/XCP_Overview) before this last one was open sourced. It was logically shutdown then.
 
-But since [XenServer 7.3 removed a lot of free features](https://xen-orchestra.com/blog/xenserver-7-3/), XCP-ng is now the logical successor.
+But since [XenServer 7.3 removed a lot of free features](https://xen-orchestra.com/blog/xenserver-7-3/), we need a community solution again: XCP-ng is now the logical successor.
+
+![](https://xen-orchestra.com/blog/content/images/2017/12/xcpng_small.png)
 
 ## Who is doing this?
 
@@ -27,4 +25,16 @@ The main goal is to be able to enjoy Xenserver power (XAPI/features) with a real
 
 ## How can I help?
 
-This section will be updated soon. Stay tuned.
+### Direct (technical) help
+
+We need people with experience on these fields:
+
+* centos/RPMs and SRPMs
+* XAPI and OCaml
+* Deep XenServer knowledge
+
+### Indirect help
+
+Some contributors will be compensated to make the initial build/doc/process working. This cost time and money, contribution will be welcome!
+
+Testing the first release will be also a great help.
