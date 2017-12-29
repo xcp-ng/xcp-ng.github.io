@@ -64,7 +64,7 @@ Estimated release date: Q1 2018
 * turn a CentOS into a XCP-ng ready host
 
 What's left:
-`
+
 * create a RPM repo
 * create a meta package
 * automate the process to put relevent packages there
