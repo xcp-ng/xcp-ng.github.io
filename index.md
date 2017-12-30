@@ -14,6 +14,7 @@ Unlike original XCP, this project is **NOT** backed by Citrix. This is a 100% co
 * John Else
 * Nick Couchman
 * Jon Sands
+* Mike Hidalgo
 
 > Want to join us? Ask!
 
