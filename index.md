@@ -1,3 +1,5 @@
+You can now [register there to stay tuned](https://mailchi.mp/3bc90e48d2f7/xcp-ng) on our next annoucement!
+
 ## What is XCP-ng?
 
 XCP (Xen Cloud Platform) [was the free/libre equivalent of XenServer](https://wiki.xenproject.org/wiki/XCP_Overview) before this last one was open sourced. It was logically shutdown then.
