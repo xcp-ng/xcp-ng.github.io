@@ -1,4 +1,4 @@
-You can now [register there to stay tuned](https://mailchi.mp/3bc90e48d2f7/xcp-ng) on our next annoucement!
+> You can now **[register here to stay tuned](https://mailchi.mp/3bc90e48d2f7/xcp-ng)** on our next annoucement!
 
 ## What is XCP-ng?
 
