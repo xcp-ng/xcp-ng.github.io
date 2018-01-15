@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: XCP-ng
 description: Building XenServer from the sources
+google_analytics: "UA-112481698-1"
