@@ -1,4 +1,4 @@
-> You can now **[register here to stay tuned](https://mailchi.mp/3bc90e48d2f7/xcp-ng)** on our next announcement!
+{% include newsletter.html %}
 
 ## Latest news
 
