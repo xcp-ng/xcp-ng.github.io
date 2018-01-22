@@ -24,7 +24,7 @@ Let's dig a bit on how to test this by yourself.
 
 To be able to make experiments, we actually use XenServer on top of… XenServer. That's pretty easy in fact: create a new VM with the `Other Media Install` field and use XS 7.2 ISO to install it.
 
-![xs72install](https://xen-orchestra.com/blog/content/images/2018/01/xs72install.png)
+![xs72install](/assets/images/xs72install.png)
 
 #### Nested
 
@@ -54,11 +54,11 @@ Now, we are ready to test it :)
 
 Let's install it into the host. But before, let's do a simple check: installing a HVM guest with CentOS + xen tools.
 
-![centosnested](https://xen-orchestra.com/blog/content/images/2018/01/centosnested.png)
+![centosnested](/assets/images/centosnested.png)
 
 Now, we'll have max vCPU number at 2 and current vCPU number at 1.
 
-![vmlimits](https://xen-orchestra.com/blog/content/images/2018/01/vmlimits.png)
+![vmlimits](/assets/images/vmlimits.png)
 
 If we try to add vCPUs in live, we got:
 
@@ -119,4 +119,4 @@ But you can also get **all the 7.2 updates** (including Meltdown patch!) without
 
 XCP-ng project will have a new dedicated home with a blog too. Again, don't forget to [register here](https://mailchi.mp/3bc90e48d2f7/xcp-ng) to get latest news about XCP-ng project into your inbox!
 
-[![xcpng400](https://xen-orchestra.com/blog/content/images/2018/01/xcpng400.png)](https://mailchi.mp/3bc90e48d2f7/xcp-ng)
+[![xcpng400](/assets/images/xcpng400.png)](https://mailchi.mp/3bc90e48d2f7/xcp-ng)
