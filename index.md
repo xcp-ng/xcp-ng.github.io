@@ -1,12 +1,20 @@
 > You can now **[register here to stay tuned](https://mailchi.mp/3bc90e48d2f7/xcp-ng)** on our next announcement!
 
+## Latest news
+
+<ul style="list-style-type:circle">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## What is XCP-ng?
 
 XCP (Xen Cloud Platform) [was the free/libre equivalent of XenServer](https://wiki.xenproject.org/wiki/XCP_Overview) before this last one was open sourced. It was logically shutdown then.
 
 But since [XenServer 7.3 removed a lot of free features](https://xen-orchestra.com/blog/xenserver-7-3/), we need a community solution again: XCP-ng is now the logical successor.
-
-![](https://xen-orchestra.com/blog/content/images/2017/12/xcpng_small.png)
 
 ## Who is doing this?
 

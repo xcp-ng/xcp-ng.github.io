@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+    color: #eee;
+}
+
+.project-tagline {
+    color: #cc584c;
+}
+
+.page-header {
+    background-color: #263740;
+    background-image: url("/assets/images/bannerxcpng.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.main-content h1 {
+    color: #cc584c;
+}
+.main-content h2 {
+    color: #cc584c;
+}
+.main-content h3 {
+    color: #cc584c;
+}
+.main-content h4 {
+    color: #cc584c;
+}
+.main-content h5 {
+    color: #cc584c;
+}
+
+a {
+    color: #263740;
+    text-decoration: underline;
+}
