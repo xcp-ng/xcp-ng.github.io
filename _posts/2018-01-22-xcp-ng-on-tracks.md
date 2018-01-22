@@ -2,6 +2,7 @@
 layout: post
 title:  "XCP-ng on tracks"
 categories: news
+comments: true
 ---
 
 We did it! XCP-ng actually works, and this is our first proof-of-concept.
