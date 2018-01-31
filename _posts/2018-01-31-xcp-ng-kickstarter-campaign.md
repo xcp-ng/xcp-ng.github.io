@@ -5,13 +5,13 @@ categories: news
 comments: true
 ---
 
-Here we are: XCP-ng project is on Kickstarter! **Now, we need you to make it happen**.
+Here we are: [XCP-ng project is on Kickstarter!](https://www.kickstarter.com/projects/78495858/xcp-ng) **Now, we need you to make it happen**.
 
 {: .center}
-![](/assets/images/weneedyou.jpg)
+[![](/assets/images/weneedyou.jpg)](https://www.kickstarter.com/projects/78495858/xcp-ng)
 
 {: .center}
-![](/assets/images/kslogo.png)
+[![](/assets/images/kslogo.png)](https://www.kickstarter.com/projects/78495858/xcp-ng)
 
 ### Objectives
 
@@ -23,7 +23,7 @@ The money will be used primarily to compensate technical experts (XenServer/XAPI
 
 ### Campaign goals
 
-There is 3 main phases on the project, the same we announced from the start.
+There is 3 main phases on the project, the same we announced from the start:
 
 * #### Phase I: initial release
 
@@ -40,7 +40,7 @@ Going beyond by introducing community code into XCP-ng project to improve the ov
 
 ### Get XCP-ng swag!
 
-Stickers, T-shirts and mugs are available if you participate. Check the Kickstarter campaign for more details!
+Stickers, T-shirts and mugs are available if you participate. [Check the Kickstarter campaign for more details!](https://www.kickstarter.com/projects/78495858/xcp-ng)
 
 {: .center}
-![](/assets/images/tees.png)
+[![](/assets/images/tees.png)](https://www.kickstarter.com/projects/78495858/xcp-ng)
