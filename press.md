@@ -1,7 +1,11 @@
-## They talk about us
+---
+title:  "They talk about us"
+comments: true
+---
 
 * [IT Pro Today](http://www.itprotoday.com/virtualization/new-open-source-project-takes-aim-xenserver) -🇬🇧
 * [The Register](https://www.theregister.co.uk/2018/01/16/xenserver_open_source_fork_xcp_ng/) - 🇬🇧
+* [Linux Journal](http://www.linuxjournal.com/content/openwalls-lkrg-hitachi-joins-open-invention-network-xcp-ng-kickstarter-campaign-and-more) - 🇬🇧
 * [Lawrence Systems YT channel](https://www.youtube.com/watch?v=cUH9idCTLm0) - 🇬🇧
 * [Heise online](https://www.heise.de/ix/meldung/Finanziert-XenServer-als-Open-Source-Software-3959207.html) - 🇩🇪
 * [Blogone](https://www.blognone.com/node/99619) - 🇹🇭
@@ -15,5 +19,5 @@
 
 ## Contact us
 
-You want to write about XCP-ng? You can reach us on [contact@vates.fr](mailto:contact@vates.fr) or by using the Facebook or Twitter page.
-You can also use our [logo](./assets/images/xcpng400.png)
+You want to write about XCP-ng? You can reach us on [contact@xcp-ng.org](mailto:contact@xcp-ng.org) or by using the Facebook or Twitter page.
+You can also use our [logo](./assets/images/xcpng400.png).
