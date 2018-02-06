@@ -16,4 +16,4 @@
 ## Contact us
 
 You want to write about XCP-ng? You can reach us on [contact@vates.fr](mailto:contact@vates.fr) or by using the Facebook or Twitter page.
-You can also use our [logo](.assets/images/xcpng400.png)
+You can also use our [logo](./assets/images/xcpng400.png)
