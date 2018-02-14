@@ -22,6 +22,7 @@ Unlike original XCP, this project is **NOT** backed by Citrix. This is a 100% co
 
 * Olivier Lambert (from [Xen Orchestra](https://xen-orchestra.com) project)
 * John Else
+* Gonçalo Gomes
 * Nick Couchman
 * Jon Sands
 * Mike Hidalgo
