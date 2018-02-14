@@ -16,6 +16,8 @@ XCP (Xen Cloud Platform) [was the free/libre equivalent of XenServer](https://wi
 
 But since [XenServer 7.3 removed a lot of free features](https://xen-orchestra.com/blog/xenserver-7-3/), we need a community solution again: XCP-ng is now the logical successor.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWkdmC9yx90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Who is doing this?
 
 Unlike original XCP, this project is **NOT** backed by Citrix. This is a 100% community project. Current contributors:
