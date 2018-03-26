@@ -6,26 +6,24 @@ XCP-ng sponsors span all industry sectors. They are trusting open source technol
 
 ## PLATINUM SPONSORS
 
-|[![](./assets/images/logos/kraemer-logo.png)](https://www.kraemer.de/)|[![](./assets/images/logos/kraemer-logo.png)](https://www.kraemer.de/)|[![](./assets/images/logos/kraemer-logo.png)](https://www.kraemer.de/)|
+|[![](./assets/images/logos/kraemer-logo.png)](https://www.kraemer.de/)|[![](./assets/images/logos/axians-logo.png)](https://www.axians.de)|[![](./assets/images/logos/hostnet-logo.png)](https://www.hostnet.de/start.html)|
 |---------------------------------------|---------------------------------------|---------------------------------------|
-|The best choice for you and your horse - we stock over 25,000 products from more than 100 manufacturers. As experts, we offer over 200 types of breeches, special equipment for eventing, riding hats/helmets and almost 150 different saddles to customers wordwide.|The best choice for you and your horse - we stock over 25,000 products from more than 100 manufacturers. As experts, we offer over 200 types of breeches, special equipment for eventing, riding hats/helmets and almost 150 different saddles to customers wordwide.|The best choice for you and your horse - we stock over 25,000 products from more than 100 manufacturers. As experts, we offer over 200 types of breeches, special equipment for eventing, riding hats/helmets and almost 150 different saddles to customers wordwide.|
+||||
 
 ## GOLD SPONSORS
 
-|[![](./assets/images/logos/kk-logo.png)](https://www.krankikom.de/?lang=en)|[![](./assets/images/logos/kk-logo.png)](https://www.krankikom.de/?lang=en)|[![](./assets/images/logos/kk-logo.png)](https://www.krankikom.de/?lang=en)|
+|[![](./assets/images/logos/kk-logo.png)](https://www.krankikom.de/?lang=en)|[![](./assets/images/logos/occentus-logo.png)](https://www.occentus.net/)|[![](./assets/images/logos/dd-wrt-logo.jpg)](https://www.dd-wrt.com/site/index)|
 |---------------------------------------|---------------------------------------|---------------------------------------|
-|Krankikom is a leading supplier of sophisticated and user-friendly web-based applications in Germany. We cover the entire value chain with our knowledge, from the conception and design of user interfaces, to the development and the implementation of software, through to the actual operation and hosting of those solutions.|Krankikom is a leading supplier of sophisticated and user-friendly web-based applications in Germany. We cover the entire value chain with our knowledge, from the conception and design of user interfaces, to the development and the implementation of software, through to the actual operation and hosting of those solutions|Krankikom is a leading supplier of sophisticated and user-friendly web-based applications in Germany. We cover the entire value chain with our knowledge, from the conception and design of user interfaces, to the development and the implementation of software, through to the actual operation and hosting of those solutions|
+|[![](./assets/images/logos/exonet-logo.jpg)](https://www.exonet.nl/)|[![](./assets/images/logos/locaweb-logo.png)](www.locaweb.com.br)||
 
 ## SILVER SPONSORS
 
-|[![](./assets/images/logos/lawang-logo.png)](https://www.krankikom.de/?lang=en)|[![](./assets/images/logos/microdata-logo.png)](https://microdata.co.uk)|[![](./assets/images/logos/swisscenter-logo.png)](https://swisscenter.com)|
+|[![](./assets/images/logos/lawang-logo.png)](http://simdacloud.id/)|[![](./assets/images/logos/interconnect-logo.png)](https://www.interconnect.co.il/)|[![](./assets/images/logos/swisscenter-logo.png)](https://swisscenter.com)|
 |---------------------------------------|---------------------------------------|---------------------------------------|
-|lorem ipsum dolor sic amet lorem ipsum dolor sic amet lorem ipsum dolor sic amet|An established provider of IT services to small and medium sized businesses, specialising in database design, application development, systems management and private cloud service provision.|SwissCenter is a Swiss company located in Lausanne who provide professional web hosting, virtual machines hosting and datacenter services.|
+|[![](./assets/images/logos/microdata-logo.png)](https://microdata.co.uk)|||
 
 ## SPONSORS
 
 |[![](./assets/images/logos/idh-logo.png)](https://www.idh.ch)|[![](./assets/images/logos/revocloud-logo.png)](https://www.revocloud.com)|[![](./assets/images/logos/poldi-logo.png)](https://poldinet.de)|
 |---------------------------------------|---------------------------------------|---------------------------------------|
-|IDH was founded in 1996. We provide linux and unix consulting services to our enterprise customers in Switzerland and offer engineered open source solutions. We are proud to be a sponsor of the XCP-ng project!|RevoCloud is a young, innovative cloud hosting provider. We provide affordable, tailored cloud hosting solutions to SMEs in The Netherlands and surrounding countries.| POLDI - Pohlmann & Dimai GbR, founded in 1997, is an IT service provider. Our declared goal is to offer our customers the best possible support as well as sustainable and future-oriented network support and planning. We are experienced in Linux as well as Windows and Unix.|
 |[![](./assets/images/logos/pipeten-logo.png)](https://www.pipeten.com/)|[![](./assets/images/logos/alza-logo.png)](https://alza.is)|[![](./assets/images/logos/shapeblue-logo.png)](http://www.shapeblue.com)|
-|Pipe Ten are passionate about building trusted hosting systems that improve the performance and security of their customers' online applications. Their expert support engineers work seamlessly as an extension of businesses own teams to give them the competitive edge to succeed online.|Alza ehf. is a development and hosting company in Iceland focusing on internet and fintech solutions.|ShapeBlue are the largest independent integrator of CloudStack technologies globally and are specialists in the design and implementation of IaaS cloud infrastructures for both private and public cloud implementations.|
