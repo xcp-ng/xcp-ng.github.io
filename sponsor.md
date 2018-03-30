@@ -27,3 +27,5 @@ XCP-ng sponsors span all industry sectors. They are trusting open source technol
 |[![](./assets/images/logos/idh-logo.png)](https://www.idh.ch)|[![](./assets/images/logos/revocloud-logo.png)](https://www.revocloud.com)|[![](./assets/images/logos/poldi-logo.png)](https://poldinet.de)|
 |---------------------------------------|---------------------------------------|---------------------------------------|
 |[![](./assets/images/logos/pipeten-logo.png)](https://www.pipeten.com/)|[![](./assets/images/logos/alza-logo.png)](https://alza.is)|[![](./assets/images/logos/shapeblue-logo.png)](http://www.shapeblue.com)|
+|[![](./assets/images/logos/megaspace-logo.png)](http://megaspace.de/)|[![](./assets/images/logos/nerd911-logo.png)](https://www.nerd911.dk/)|[![](./assets/images/logos/qballtech-logo.png)](http://qballtech.net/)|
+|[![](./assets/images/logos/strict-logo.png)](http://www.strict.co.jp/)|
