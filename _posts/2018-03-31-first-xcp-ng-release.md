@@ -17,6 +17,7 @@ Mirrors:
 * [Germany 1](http://www.iextreme.org/xcp-ng/XCP-ng_7.4.iso)
 * [Germany 2](https://yaecms.org/xcp-ng/XCP-ng_7.4.iso)
 * [Switzerland](https://host-free.ch/XCP-ng_7.4.iso)
+* [UK](http://tardis.redrawinternet.com/XCP-ng_7.4.iso)
 * [USA](http://fohdeesha.com/xcpng/XCP-ng_7.4.iso)
 
 > Md5sum: `ea2a9b90218537b546d1f399ae2ace95`
