@@ -49,12 +49,22 @@ Due to change in the product name (ie XCP-ng vs XenServer), some operations coul
 * migrating a VM from XenServer **to** XCP-ng will work, **NOT** the opposite for now
 * Recent version of XenCenter fails to connect (but XO works perfectly!)
 
-> If you want a quick UI to manage your XCP-ng, you can deploy Xen Orchestra by just typing `bash -c "$(curl -s http://xoa.io/deploy)"` inside your XCP-ng console. This will deploy a VM with a web UI.
+If you want a good UI to manage your XCP-ng, you can deploy Xen Orchestra by just typing this inside your XCP-ng console:
+
+```
+# bash -c "$(curl -s http://xoa.io/deploy)"
+```
+
+This will deploy a VM with a web UI.
 
 
 > Note: Xen Orchestra is **100% compatible with XCP-ng**. You can either deploy the free turnkey appliance or install it from the sources yourself. If you already use it, just add the host in Settings/server, like any other XenServer host:
 
 ![](/assets/images/connectxo.png)
+
+Here is the host view:
+
+![](/assets/images/xoxcpng.png)
 
 ## Install procedure
 
