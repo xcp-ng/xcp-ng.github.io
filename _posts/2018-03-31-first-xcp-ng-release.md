@@ -9,7 +9,7 @@ We said "the first XCP-ng release will be available in Q1". Guess what? **We did
 
 > Mirror, mirror, where's your fastest server? We need your help to host this ISO everywhere in the world to get better download speed. If you can provide a mirror, please let us know where (link and hosting country) on [Twitter](https://twitter.com/xcpng), IRC (#xcp-ng on Freenode) or in the comment section. We'll add it here then.
 
-[Download XCP-ng ISO here]().
+[Download XCP-ng ISO here](http://xcp-ng.org/7.4/XCP-ng_7.4.iso).
 
 > Md5sum: `ea2a9b90218537b546d1f399ae2ace95`
 

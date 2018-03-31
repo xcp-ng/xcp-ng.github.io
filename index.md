@@ -18,6 +18,10 @@ But since [XenServer 7.3 removed a lot of free features](https://xen-orchestra.c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SWkdmC9yx90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Download
+
+First "beta" release is [available here](http://xcp-ng.org/7.4/XCP-ng_7.4.iso). Download and try!
+
 ## Who is doing this?
 
 Unlike original XCP, this project is **NOT** backed by Citrix. This is a 100% community project. Current contributors:
