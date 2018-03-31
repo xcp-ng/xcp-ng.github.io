@@ -14,6 +14,7 @@ We said "the first XCP-ng release will be available in Q1". Guess what? **We did
 Mirrors:
 
 * [Brazil](http://mirror.cc.iq.ufrj.br/xcp-ng/XCP-ng_7.4.iso)
+* [France](https://mirror.aquaray.com/xcp-ng.org/7.4/XCP-ng_7.4.iso)
 * [Germany 1](http://www.iextreme.org/xcp-ng/XCP-ng_7.4.iso)
 * [Germany 2](https://yaecms.org/xcp-ng/XCP-ng_7.4.iso)
 * [Switzerland](https://host-free.ch/XCP-ng_7.4.iso)
