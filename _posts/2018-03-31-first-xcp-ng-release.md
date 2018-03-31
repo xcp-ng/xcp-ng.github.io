@@ -60,7 +60,7 @@ Due to change in the product name (ie XCP-ng vs XenServer), some operations coul
 
 It's very similar to XenServer install. First, [download our ISO here]().
 
-Then, install from USB key, eg with `dd if=XCP-ng 7.4 of=/dev/sdX bs=8M status=progress oflag=direct`. You can also burn a real CD or use a Windows program to create bootable USB key from an ISO file.
+Then, install from USB key, eg with `dd if=XCP-ng_7.4.iso of=/dev/sdX bs=8M status=progress oflag=direct`. You can also burn a real CD or use a Windows program to create bootable USB key from an ISO file.
 
 Finally, it's pretty straightforward:
 
