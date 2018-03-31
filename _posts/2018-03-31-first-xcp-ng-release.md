@@ -11,6 +11,12 @@ We said "the first XCP-ng release will be available in Q1". Guess what? **We did
 
 [Download XCP-ng ISO here](http://xcp-ng.org/7.4/XCP-ng_7.4.iso).
 
+Mirrors:
+
+* [Germany](http://www.iextreme.org/xcp-ng/XCP-ng_7.4.iso)
+* [Switzerland](https://host-free.ch/XCP-ng_7.4.iso)
+* [USA](http://fohdeesha.com/xcpng/XCP-ng_7.4.iso)
+
 > Md5sum: `ea2a9b90218537b546d1f399ae2ace95`
 
 > What about pro support? A recurrent question from various companies is support related. Good news: in a near future, **XCP-ng will be backed with professional support**, based on the fully Open Source version, **without any feature restrictions**. We also aim to put XCP-ng in an Open Source foundation as soon as we can, to be certain to be available to **everyone** without limits.
