@@ -5,7 +5,7 @@ categories: news
 comments: true
 ---
 
-We said the first XCP-ng release would be available in Q1. Guess what? **We did it**.
+We said "the first XCP-ng release will be available in Q1". Guess what? **We did it**.
 
 > Mirror, mirror, where's your fastest server? We need your help to host this ISO everywhere in the world to get better download speed. If you can provide a mirror, please let us know where (link and hosting country) on [Twitter](https://twitter.com/xcpng), IRC (#xcp-ng on Freenode) or in the comment section. We'll add it here then.
 
@@ -13,7 +13,7 @@ We said the first XCP-ng release would be available in Q1. Guess what? **We did 
 
 > Md5sum: `ea2a9b90218537b546d1f399ae2ace95`
 
-> What about pro support? A recurrent question from various companies is support related. Good news: in a near future, **XCP-ng will be backed with professional support**, based on the fully Open Source version, **without any feature restrictions**. We also aim to put XCP-ng in an Open Source foundation as soon as we can, to be certain to be available to **everyone without restrictions**.
+> What about pro support? A recurrent question from various companies is support related. Good news: in a near future, **XCP-ng will be backed with professional support**, based on the fully Open Source version, **without any feature restrictions**. We also aim to put XCP-ng in an Open Source foundation as soon as we can, to be certain to be available to **everyone** without limits.
 
 ## A first test release
 
@@ -24,7 +24,7 @@ XCP-ng is **based on XenServer 7.4**. Remember this first release is a go for te
 * improve compatibility (read more on a paragaph below)
 * doing a real build process
 
-**Keep that in mind before doing anything with production systems**. This is **only the first release** and it means you can either **test it or wait** for more feedback.*
+**Keep that in mind before doing anything with production systems**. This is **only the first release** and it means you can either **test it or wait** for more feedback.
 
 > It's possible that next improved release will require a full "upgrade" (ie like reinstall while saving your existing VMs on it, like a traditional XenServer upgrade). We can't know for sure right now.
 
@@ -37,6 +37,8 @@ With the ISO we provided:
 * You can install XCP-ng from scratch on your hardware
 * You can upgrade an existing XenServer to XCP-ng
 * You can enjoy **ALL** features without restrictions
+
+> Note: XenServer ISO is detecting XCP-ng install and should be able to "downgrade" it (ie: getting back to XenServer). However, this is not tested.
 
 ### Compatibility
 
@@ -56,7 +58,7 @@ Due to change in the product name (ie XCP-ng vs XenServer), some operations coul
 
 ## Install procedure
 
-It's very close to XenServer install. First, download our ISO here.
+It's very similar to XenServer install. First, [download our ISO here]().
 
 Then, install from USB key, eg with `dd if=XCP-ng 7.4 of=/dev/sdX bs=8M status=progress oflag=direct`. You can also burn a real CD or use a Windows program to create bootable USB key from an ISO file.
 
@@ -95,3 +97,7 @@ And you're in:
 We'd like to improve compatibility, add a default repo for next updates/patches and obviously improve our build process (that wasn't merely a process for now, but more a pile of various manual stuff). The build process is vital to keep up the pace and then later including extra features!
 
 > Stay tuned on all our coming news by registering here! We also have a [Twitter account](https://twitter.com/xcpng).
+
+## Sponsors
+
+We'd like to thanks again all our invididual backers, but also all the sponsors. There is now a dedicated page listed there: https://xcp-ng.github.io/sponsors
