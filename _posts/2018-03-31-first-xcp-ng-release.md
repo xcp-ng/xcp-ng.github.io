@@ -19,6 +19,7 @@ Mirrors:
 * [UK 1](http://tardis.redrawinternet.com/XCP-ng_7.4.iso)
 * [UK 2](http://mirror.freethought-internet.co.uk/xcp-ng/iso/XCP-ng_7.4.iso)
 * [USA](http://fohdeesha.com/xcpng/XCP-ng_7.4.iso)
+* [Vietnam](http://opensource.xtdv.net/xcp-ng/XCP-ng_7.4.iso)
 
 **A big thanks for people hosting mirrors!**
 
