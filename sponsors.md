@@ -14,7 +14,7 @@ XCP-ng sponsors span all industry sectors. They are trusting open source technol
 
 |[![](./assets/images/logos/kk-logo.png)](https://www.krankikom.de/?lang=en)|[![](./assets/images/logos/occentus-logo.png)](https://www.occentus.net/)|[![](./assets/images/logos/dd-wrt-logo.jpg)](https://www.dd-wrt.com/site/index)|
 |---------------------------------------|---------------------------------------|---------------------------------------|
-|[![](./assets/images/logos/exonet-logo.jpg)](https://www.exonet.nl/)|[![](./assets/images/logos/locaweb-logo.png)](www.locaweb.com.br)||
+|[![](./assets/images/logos/exonet-logo.jpg)](https://www.exonet.nl/)|[![](./assets/images/logos/locaweb-logo.png)](https://www.locaweb.com.br)||
 
 ## Silver sponsors
 
