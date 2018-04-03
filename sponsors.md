@@ -4,7 +4,7 @@ comments: false
 ---
 XCP-ng sponsors span all industry sectors. They are trusting open source technologies to help them in their everyday business.
 
-> Want to join our sponsors? [Contact us](mailto:sales@vates.fr)
+> Want to join our sponsors? [Contact us](mailto:contact@xcp-ng.org)sta
 
 ## Platinum sponsors
 
