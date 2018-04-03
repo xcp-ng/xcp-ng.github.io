@@ -4,6 +4,8 @@ comments: false
 ---
 XCP-ng sponsors span all industry sectors. They are trusting open source technologies to help them in their everyday business.
 
+> Want to join our sponsors? [Contact us](mailto:sales@vates.fr)
+
 ## Platinum sponsors
 
 |[![](./assets/images/logos/kraemer-logo.png)](https://www.kraemer.de/)|[![](./assets/images/logos/axians-logo.png)](https://www.axians.de)|[![](./assets/images/logos/hostnet-logo.png)](https://www.hostnet.de/start.html)|
@@ -29,3 +31,4 @@ XCP-ng sponsors span all industry sectors. They are trusting open source technol
 |[![](./assets/images/logos/pipeten-logo.png)](https://www.pipeten.com/)|[![](./assets/images/logos/alza-logo.png)](https://alza.is)|[![](./assets/images/logos/shapeblue-logo.png)](http://www.shapeblue.com)|
 |[![](./assets/images/logos/megaspace-logo.png)](http://megaspace.de/)|[![](./assets/images/logos/nerd911-logo.png)](https://www.nerd911.dk/)|[![](./assets/images/logos/qballtech-logo.png)](http://qballtech.net/)|
 |[![](./assets/images/logos/strict-logo.png)](http://www.strict.co.jp/)|[![](./assets/images/logos/openit-logo.jpg)](http://openit.hr/)|
+
