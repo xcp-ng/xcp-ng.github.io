@@ -10,7 +10,7 @@ XCP-ng sponsors span all industry sectors. They are trusting open source technol
 
 |[![](./assets/images/logos/kraemer-logo.png)](https://www.kraemer.de/)|[![](./assets/images/logos/axians-logo.png)](https://www.axians.de)|[![](./assets/images/logos/hostnet-logo.png)](https://www.hostnet.de/start.html)|
 |---------------------------------------|---------------------------------------|---------------------------------------|
-||||
+|[![](./assets/images/logos/oneincom-logo.jpg)](https://www.one-in.com.pe/)|||
 
 ## Gold sponsors
 
