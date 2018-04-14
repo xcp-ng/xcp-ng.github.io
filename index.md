@@ -1,3 +1,7 @@
+---
+redirect_to: "https://xcp-ng.org"
+---
+
 {% include newsletter.html %}
 
 ## Latest news

@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: XCP-ng
 description: Free/libre XenServer
 google_analytics: "UA-112481698-1"
+gems:
+  - jekyll-redirect-from
