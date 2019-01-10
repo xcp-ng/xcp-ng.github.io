@@ -1,3 +1,5 @@
-# xcp-ng.github.io
+# XCP-ng
 
-More content soon!
+Content now available on https://xcp-ng.org
+
+Pro support available at https://xcp-ng.com
